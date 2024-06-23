@@ -13,7 +13,7 @@ This is to save little time on ;
 
 ## Installation
 
-    git clone https://github.com/NeverWonderLand/tellme
+    git clone https://github.com/R4GN4R0K-SEC/tellme
 
     cd tellme
 
